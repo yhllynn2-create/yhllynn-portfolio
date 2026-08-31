@@ -1,0 +1,2 @@
+# 关键：开启 GitHub Pages 的 Jekyll 处理会导致下划线开头的文件被忽略
+# 我们不需要 Jekyll，纯静态站点

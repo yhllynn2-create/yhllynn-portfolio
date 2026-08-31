@@ -1,0 +1,19 @@
+# 临时文件和系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*~
+
+# 编辑器配置（按需启用）
+.vscode/
+.idea/
+
+# node 服务器临时残留
+node_modules/
+server.log
+
+# 本地预览端口记录（可选）
+.port
